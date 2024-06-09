@@ -28,7 +28,7 @@ profit, orders, profit margin, and various comparisons. This aims to provide a c
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_analysis.csv" file ,which contains well-detailed information about the business and additionally has
+Sales Data: The primary dataset used for this analysis is the "sales_analysis.xlsx" file ,which contains well-detailed information about the business and additionally has
 4 datasets within it i.e sales orders,regions, products and customers
 
 ### Tools Used
