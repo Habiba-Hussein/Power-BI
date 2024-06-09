@@ -7,22 +7,24 @@
 
 [Data Sources](#data-sources)
 
-[Data Cleaning/Preprocessing](#data-cleaning/preprocessing)
+[Data Cleaning/Preprocessing](#data-cleaningpreprocessing)
 
 [Data Analysis](#data-analysis)
 
-[Conclusion](#Conclusion)
+[Conclusion](#conclusion)
 
-[Recommendations](#Recommendations)
+[Recommendations](#recommendations)
 
-[References](#References)
+[References](#references)
 
 
 ### Project Overview
 
 The objective of this data analysis project is to analyze an e-commerce data over a period of 3years and present comprehensive insights into sales, 
 profit, orders, profit margin, and various comparisons. This aims to provide a clear understanding of key performance indicators and trends using Power BI.
-  
+
+<img width="479" alt="project-2" src="https://github.com/Habiba-Hussein/SalesAnalysis/assets/147278092/e75712d5-29f7-49ce-ad45-bed547343f51">
+
 
 ### Data Sources
 
