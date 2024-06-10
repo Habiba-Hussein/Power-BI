@@ -9,6 +9,8 @@
 
 [Data Cleaning/Preprocessing](#data-cleaningpreprocessing)
 
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Analysis](#data-analysis)
 
 [Conclusion](#conclusion)
